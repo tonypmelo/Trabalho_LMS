@@ -1,0 +1,17 @@
+table.comBordaSimples {
+    border-collapse: collapse; /* CSS2 */
+    background: #FFFFF0;
+    margin: 0;
+    
+}
+ 
+table.comBordaSimples td {
+    border: 1px solid black;
+    margin: 0;
+}
+ 
+table.comBordaSimples th {
+    border: 1px solid black;
+    background: #F0FFF0;
+    margin: 0;
+}
