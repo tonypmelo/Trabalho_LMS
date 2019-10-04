@@ -1,0 +1,17 @@
+.fhome{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 75%;
+}
+article{
+    background: radial-gradient(black,grey);
+    width: 500px;
+    height: 500px;
+    display: block;
+    text-align: center;
+    margin:  0 auto;
+    font-size: 20px;
+}

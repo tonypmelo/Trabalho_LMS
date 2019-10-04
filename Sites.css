@@ -44,15 +44,6 @@ footer{
     margin-right: 10px;
     margin-top: 0px;
 }
-.contprincipal{
-    background: radial-gradient(black,grey);
-    width: 500px;
-    height: 500px;
-    display: block;
-    text-align: center;
-    margin:  0 auto;
-    font-size: 20px;
-}
 p{
     color: darkgrey;
 }
