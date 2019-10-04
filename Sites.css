@@ -1,43 +1,64 @@
-nav#menu ul{
+nav ul{
     display: block;
-}
-nav#menu ul{
     position: absolute;
     top: -20px;
     left: 300px;
     text-transform: uppercase;
 }
-nav#menu li{
+nav li{
     display: inline-block;
     padding: 5px;
     margin: -20;
 }
-nav#menu li:hover{
+nav li:hover{
     background: rgb(255, 254, 192);
 }
-.header{
+nav li a{
+    text-decoration: none;
+}
+body{
+    margin: 0px;
+}
+header{
+    background: linear-gradient(black,grey);
     width: 100%;
     height: 100px;
-    display: block;
+    display: flex;
     background-color: gray;
+    border: none;
 }
 main{
     width: 100%;
-    height: 600px;
-    background-color: white;
+    height: 100%;
+    background: linear-gradient(to right,black,grey);
 }
 footer{
     width: 100%;
     height: 100px;
-    background-color: gray;
+    background: linear-gradient(grey,black);
 }
 .logo{
     float: left;
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     margin-right: 10px;
     margin-top: 0px;
 }
+.contprincipal{
+    background: radial-gradient(black,grey);
+    width: 500px;
+    height: 500px;
+    display: block;
+    text-align: center;
+    margin:  0 auto;
+    font-size: 20px;
+}
+p{
+    color: darkgrey;
+}
 #endereço{
     text-align: center;
+}
+.titulo{
+    margin: 0 auto;
 }
