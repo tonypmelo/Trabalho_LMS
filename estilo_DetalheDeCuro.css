@@ -4,3 +4,12 @@ h1.center{
 p.center{
     text-align: center;
 }
+article{
+    background: radial-gradient(black,grey);
+    width: 500px;
+    height: 500px;
+    display: block;
+    text-align: center;
+    margin:  0 auto;
+    font-size: 20px;
+}

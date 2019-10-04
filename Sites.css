@@ -47,8 +47,13 @@ footer{
 p{
     color: darkgrey;
 }
-#endereço{
-    text-align: center;
+section.endereço{
+    
+    width: 40%;
+    height: 40%;
+}
+.end{
+    margin-top: 10px;
 }
 .titulo{
     margin: 0 auto;
